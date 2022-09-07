@@ -30,4 +30,4 @@ Please give a ⭐️ if you like this project!
 ## Acknowledgments
 - Hat tip to anyone contributed one way or the other.
 - Inspiration
-- etc
+- etc.
