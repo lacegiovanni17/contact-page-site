@@ -1,18 +1,17 @@
 # contact-page-site
 👋 Hi, I’m Chidike Henry 
 😎 I’m a web developer 
-💻 This is a product card made with HTML, CSS and Javascript. 
-🌍 Website:   https://lacegiovanni17.github.io/contact-page-site/
+💻 This is a search bar made with HTML & CSS. 
+🌍 Website:  
 💞️ I’m looking to collaborate on JS projects 
 📫 How to reach me dk1online25@gmail.com
 
-![Contact page site](https://user-images.githubusercontent.com/30509335/188509414-77238ee6-30da-45c6-833c-756d4ab275a9.PNG)
+![search box](https://user-images.githubusercontent.com/30509335/188992663-907d1987-c7e9-493a-800c-f65e8736c8b7.PNG)
 
 
 ## Technologies Used
 * CSS
 * HTML
-* Javascript
 * GitHub
 
 ## Author
